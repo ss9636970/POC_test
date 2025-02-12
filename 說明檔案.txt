@@ -2,7 +2,7 @@
 1. Pytorch GPU 測試檔案 : TorchGPU_test.py
 2. Pytorch 訓練測試檔案 : TorchTrain_test.py
 3. Tensorflow GPU 測試檔案 : TensorflowGPU_test.py
-4. Tensorflow GPU 測試檔案 : TensorflowTrain_test.py
+4. Tensorflow 訓練測試檔案 : TensorflowTrain_test.py
 5. Pytorch 訓練資源測試檔案 : TorchSource_test.py
 6. Transformer GPU 測試檔案 : TransformerGPU_test.py
 7. Transformer LLM 生成測試檔案 : TransformerLLM_test.py
