@@ -1,0 +1,3 @@
+###################### 測試檔案說明
+1. Pytorch 安裝方式
+step 1. pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
