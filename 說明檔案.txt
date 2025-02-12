@@ -6,3 +6,15 @@
 5. Pytorch 訓練資源測試檔案 : TorchSource_test.py
 6. Transformer GPU 測試檔案 : TransformerGPU_test.py
 7. Transformer LLM 生成測試檔案 : TransformerLLM_test.py
+
+###################### 簡易 python 安裝
+## method 1
+sudo apt update
+sudo apt install -y python3.10 python3.10-venv python3.10-dev
+
+## method 2
+sudo apt update
+sudo apt install -y software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa -y
+sudo apt update
+sudo apt install -y python3.10 python3.10-venv python3.10-dev
